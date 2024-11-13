@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá! 👋 Eu sou Henrique Oliveira Estevan 
 
-<!--
-**henriquestevan/henriquestevan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 18 anos e sou estudante de Engenharia da Computação na PUC Campinas. Tenho grande interesse por tecnologia e programação, e estou sempre buscando expandir meus conhecimentos nessa área.
 
-Here are some ideas to get you started:
+### 🚀 Linguagens que estou aprendendo a trabalhar:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+![Assembly x86 (DOS)](https://img.shields.io/badge/-Assembly-007AAC?logo=assembler&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+### Sobre mim
+
+- 🎓 Atualmente cursando Engenharia da Computação na **PUC Campinas**
+- 💻 Interesses: Desenvolvimento de software, linguagens de baixo nível, web design
+- 📚 Atualmente focado em melhorar minhas habilidades nas linguagens C, Assembly x86 e no desenvolvimento web com HTML, CSS e JavaScript
+
+---
+
+Obrigado pela visita ao meu perfil! 😊
+
