@@ -20,5 +20,4 @@
 
 ---
 
-Obrigado pela visita ao meu perfil! 😊
 
