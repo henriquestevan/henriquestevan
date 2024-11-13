@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou Henrique Oliveira Estevan 
+# Henrique Oliveira Estevan 
 
 🇧🇷 Tenho 18 anos e sou estudante de Engenharia da Computação na PUC Campinas. Tenho grande interesse por tecnologia e programação, e estou sempre buscando expandir meus conhecimentos nessa área.
 
