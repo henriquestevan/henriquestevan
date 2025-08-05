@@ -1,8 +1,8 @@
 # Henrique Oliveira Estevan 
 
-🇧🇷 Tenho 18 anos e sou estudante de Engenharia da Computação na PUC Campinas. Tenho grande interesse por tecnologia e programação, e estou sempre buscando expandir meus conhecimentos nessa área.
+🇧🇷 Tenho 19 anos e sou estudante de Engenharia da Computação na PUC Campinas. Tenho grande interesse por tecnologia e programação, e estou sempre buscando expandir meus conhecimentos nessa área.
 
-🇺🇸 I'm 18 years old and I'm a Computer Engineering student at PUC Campinas. I have a great interest in technology and programming, and I am always looking to expand my knowledge in this area.
+🇺🇸 I'm 19 years old and I'm a Computer Engineering student at PUC Campinas. I have a great interest in technology and programming, and I am always looking to expand my knowledge in this area.
 
 ### 🚀 Linguagens que estou aprendendo a trabalhar:
 
@@ -16,7 +16,7 @@
 
 - 🎓 Atualmente cursando Engenharia da Computação na **PUC Campinas**
 - 💻 Interesses: Desenvolvimento de software, linguagens de baixo nível, web design
-- 📚 Atualmente focado em melhorar minhas habilidades nas linguagens C, Assembly x86 e no desenvolvimento web com HTML, CSS e JavaScript
+- 📚 Atualmente focado em melhorar minhas habilidades nas linguagens C, Assembly x86, Java e no desenvolvimento web com HTML, CSS e JavaScript
 
 ---
 
